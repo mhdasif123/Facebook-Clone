@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+}
+.navbar{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+.header{
+    padding-top: 30px;
+    padding-left: 92px;
+    color: white;
+    font-size: 45px;
+    float: left; 
+}
+#form1{
+    padding-left: 720px;
+    padding-top: 20px;
+}
+#form2{
+    padding-left: 1000px;
+    padding-top: 0px;
+}
+#ep{
+    font-size: 13px;
+    color: white;
+}
+#pass{
+    padding-top: 10px;
+    padding-left: 90px;
+    font-size: 13px;
+    color: white;
+}
+#checkbox{
+    color:grey;
+    font-size: 12px;
+}
+#bt{
+    text-decoration: none;
+    padding-left: 896px;
+    margin-top: -38px;
+    margin-left: -240px;
+    text-align: center;
+    color: black;   
+}
+#bt a{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+#main{
+    margin-left: -69px;
+}
+#main-head{
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#head1{
+    padding-top: 45px;
+    padding-left: 690px;
+}
+#head2{
+    padding-top: 0px;
+    padding-left: 690px;
+    padding-bottom: 0px;
+    margin-top: -18px;
+}
+.login{
+    margin-top: -48px;
+    margin-left:  1070px;
+}
+.login input{
+    height: 24px;
+    width: 50px;
+    font-weight: 600;
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color: #2d5bba;
+    border: 1px solid #224285;
+}
+.login input:hover{
+    background-color: #3b5998;
+}
+#form3{
+    padding-left: 790px;
+    padding-top: 7px;
+}
+#form4{
+    height: 25px;
+    width: 312px;
+    padding-left: 790px;
+    padding-top: 12px;
+}
+#form5{
+    padding-left: 790px;
+    padding-top: 17px;
+}
+#bday{
+    padding-left: 0px;
+    padding-top: 0px;
+}
+#heading{
+    padding-left: 790px;
+    padding-top: 0px;
+    color: gray;
+}
+#bd{
+    margin-left: 792px;
+    margin-top: -42px;
+    padding-top: 10px;
+}
+.brth_hint{
+    margin-top: -40px;
+    margin-left: 1123px;
+    font-size: 11px;
+    width: 150px;
+}
+#heading2{
+    padding-left: 780px;
+    padding-top: 0px;
+    color: gray;
+}
+#gender{
+    padding-left: 10px;
+}
+#gd{
+    margin-left: 775px;
+    font-size: 19px;
+    margin-top: -18px;
+
+}
+#pg{
+    font-size: 12px;
+    padding-left: 725px;
+    padding-top: 5px;
+    color: gray;
+}
+#signup{
+    margin-left: 725px;
+    margin-top: 0px;
+    height: 38px;
+    width: 170px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid #006117;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(#6fad5a, #66a150, #60974c);
+}
+#signup:hover{
+    background: linear-gradient(#74b85e, #598B45);
+}
+.left-side{
+    margin-top: -461px;
+    margin-left: 90px;
+}
+.left-side p{
+    font-size: 30px;
+    color: #3b5998;
+    font-weight: bold;
+}
+.left-img{
+    margin-left: 200px;
+}
+.left-img img{
+    width: 25%;
+    margin-top: -30px;
+}
